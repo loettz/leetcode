@@ -1,6 +1,11 @@
-# :star: Leetcode results in Typescript
+# :star: Leetcode results
 
-I'm casually doing leetcode sometimes to train problem solving & DSA skills.
-Everything is going to be in Typescript and contains tests.
+## solving Leetcode problems in Typescript
+
+I'm casually doing leetcode to train problem solving & DSA skills.
 
 problems solved: 1
+
+## Tech Stack
++ Typescript
++ jest
