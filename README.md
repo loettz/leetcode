@@ -1,10 +1,10 @@
 # :star: Leetcode results
 
-## solving Leetcode problems in Typescript
+## solving Leetcode problems in Typescript :blue_heart:
 
 I'm casually doing leetcode to train problem solving & DSA skills.
 
-problems solved: 1
+problems solved: 2
 
 ## Tech Stack
 + Typescript
