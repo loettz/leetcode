@@ -5,7 +5,7 @@
 I'm casually doing leetcode to train problem solving & DSA skills.
 Sorted by difficulty.
 
-problems solved: 3
+problems solved: 4
 
 ## Tech Stack
 + Typescript
