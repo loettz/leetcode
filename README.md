@@ -2,10 +2,9 @@
 
 ## solving Leetcode problems in Typescript :blue_heart:
 
-I'm casually doing leetcode to train problem solving & DSA skills.
-Sorted by difficulty.
+Some leetcode to train problem solving & DSA skills.
 
-problems solved: 6
+problems solved: 7
 
 ## Tech Stack
 + Typescript
